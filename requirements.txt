@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn   
+
+streamlit
+
+
+
+
